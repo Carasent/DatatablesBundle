@@ -1,3 +1,5 @@
+# Test
+
 # Version 1.3
 
 * Dropped support for PHP 7.1
