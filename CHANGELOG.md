@@ -1,6 +1,12 @@
-# Test
+# Version 2.0.0
 
-# Version 1.3
+* Support for Symfony 7.4 with PHP 8.4 requirement.
+
+# Version 1.4.0
+
+* Support for Symfony 7.4 with PHP 8.3 support.
+
+# Version 1.3.1
 
 * Dropped support for PHP 7.1
 * Dropped support for Symfony 3.4 and <=4.3
